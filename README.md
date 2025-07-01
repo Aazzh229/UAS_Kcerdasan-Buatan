@@ -50,7 +50,7 @@ Project ini bertujuan untuk membangun model machine learning yang dapat mempredi
 ## Visualisasi
 
 **Confusion Matrix:**  
-![Confusion Matrix](Assets/confusion%20matrix.png)
+![Confusion Matrix](Assets/confusion_matrix.png)
 
 ---
 
