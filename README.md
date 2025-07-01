@@ -217,6 +217,9 @@ Pada tahap evaluasi, performa model Random Forest diukur menggunakan berbagai me
 
 Confusion matrix memberikan informasi tentang prediksi benar (True Positives dan True Negatives) serta prediksi salah (False Positives dan False Negatives). Berikut adalah confusion matrix dari masing-masing model:
 
+![Confusion Matrix](Assets/confusion_matrix.png)
+
+
 - True Negatives (TN): 78  
 - False Positives (FP): 21  
 - False Negatives (FN): 19  
